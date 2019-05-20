@@ -10,4 +10,4 @@ AS
 		FROM produto AS P
 		WHERE P.id_produto = @idproduto;
 
---Exemplo de chamada: SELECT * FROM relatatorio_EstoqueProdutosPorCodigo(30);
+--Exemplo de chamada: SELECT * FROM relatorio_EstoqueProdutosPorCodigo(30);
